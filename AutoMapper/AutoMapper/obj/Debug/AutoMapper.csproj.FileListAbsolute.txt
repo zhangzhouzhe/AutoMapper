@@ -1,0 +1,16 @@
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\AutoMapper.dll
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\AutoMapper.pdb
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.abstractions.dll
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.assert.dll
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.core.dll
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.execution.desktop.dll
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.abstractions.xml
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.assert.pdb
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.assert.xml
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.core.pdb
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.core.xml
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.execution.desktop.pdb
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\bin\Debug\xunit.execution.desktop.xml
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\obj\Debug\AutoMapper.csprojResolveAssemblyReference.cache
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\obj\Debug\AutoMapper.dll
+D:\MyProject\AutoMapper\AutoMapper\AutoMapper\obj\Debug\AutoMapper.pdb
